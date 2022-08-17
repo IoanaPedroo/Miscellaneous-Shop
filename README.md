@@ -1,4 +1,4 @@
-# Miscellaneus-Shop
+# Miscellaneous-Shop
 A simple e-commerce app that aims to sell miscellaneus objects.
 
 Team members:
