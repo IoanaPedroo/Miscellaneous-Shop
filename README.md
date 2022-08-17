@@ -2,10 +2,13 @@
 A simple e-commerce app that aims to sell miscellaneus objects.
 
 Team members:
+
 Ioana Serban
+
 Maria Irina Preda
 
 Technologies:
+
 For the frontend we used css, html, javaScript
 
 For the backend we used maven postgres database, sql java web servlets, java
@@ -21,7 +24,11 @@ For the backend we used maven postgres database, sql java web servlets, java
 
 Features:
 1.You can login with google
+
 2.You get confirmation mail on register
+
 3.You can pay the products using visa or paypal payment
+
 4.You can see your previous orders on your personal page
+
 5.You can change the content of the cart
